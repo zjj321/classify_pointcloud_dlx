@@ -1,0 +1,304 @@
+<?xml version="1.0"?>
+<multiboost>
+	<algo>SingleStumpLearner</algo>
+	<weakhyp iter="0">
+		<alpha>1.41302</alpha>
+		<column>19</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>23.5</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="1">
+		<alpha>0.686869</alpha>
+		<column>19</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>11.5</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="2">
+		<alpha>0.477145</alpha>
+		<column>2</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>0.544152</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="3">
+		<alpha>0.320109</alpha>
+		<column>6</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>0.568447</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="4">
+		<alpha>0.277836</alpha>
+		<column>18</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>52.5</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="5">
+		<alpha>0.326881</alpha>
+		<column>13</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>0.0407785</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="6">
+		<alpha>0.244784</alpha>
+		<column>19</column>
+		<vArray size="2">
+			<class id="0">1</class>
+			<class id="15">-1</class>
+		</vArray>
+		<threshold>23.5</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="7">
+		<alpha>0.35135</alpha>
+		<column>19</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>37.5</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="8">
+		<alpha>0.35174</alpha>
+		<column>12</column>
+		<vArray size="2">
+			<class id="0">1</class>
+			<class id="15">-1</class>
+		</vArray>
+		<threshold>0.667588</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="9">
+		<alpha>0.277128</alpha>
+		<column>1</column>
+		<vArray size="2">
+			<class id="0">1</class>
+			<class id="15">-1</class>
+		</vArray>
+		<threshold>0.0044521</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="10">
+		<alpha>0.180263</alpha>
+		<column>19</column>
+		<vArray size="2">
+			<class id="0">1</class>
+			<class id="15">-1</class>
+		</vArray>
+		<threshold>23.5</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="11">
+		<alpha>0.205629</alpha>
+		<column>3</column>
+		<vArray size="2">
+			<class id="0">1</class>
+			<class id="15">-1</class>
+		</vArray>
+		<threshold>-31.5</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="12">
+		<alpha>0.268524</alpha>
+		<column>6</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>0.22299</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="13">
+		<alpha>0.188754</alpha>
+		<column>3</column>
+		<vArray size="2">
+			<class id="0">1</class>
+			<class id="15">-1</class>
+		</vArray>
+		<threshold>-33.5</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="14">
+		<alpha>0.253322</alpha>
+		<column>13</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>0.121575</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="15">
+		<alpha>0.179106</alpha>
+		<column>12</column>
+		<vArray size="2">
+			<class id="0">1</class>
+			<class id="15">-1</class>
+		</vArray>
+		<threshold>0.49095</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="16">
+		<alpha>0.189704</alpha>
+		<column>3</column>
+		<vArray size="2">
+			<class id="0">1</class>
+			<class id="15">-1</class>
+		</vArray>
+		<threshold>-33.5</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="17">
+		<alpha>0.181512</alpha>
+		<column>19</column>
+		<vArray size="2">
+			<class id="0">1</class>
+			<class id="15">-1</class>
+		</vArray>
+		<threshold>23.5</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="18">
+		<alpha>0.149854</alpha>
+		<column>7</column>
+		<vArray size="2">
+			<class id="0">1</class>
+			<class id="15">-1</class>
+		</vArray>
+		<threshold>7.5</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="19">
+		<alpha>0.165714</alpha>
+		<column>2</column>
+		<vArray size="2">
+			<class id="0">1</class>
+			<class id="15">-1</class>
+		</vArray>
+		<threshold>0.543168</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="20">
+		<alpha>0.186628</alpha>
+		<column>5</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>0.90821</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="21">
+		<alpha>0.176649</alpha>
+		<column>18</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>4.5</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="22">
+		<alpha>0.168725</alpha>
+		<column>8</column>
+		<vArray size="2">
+			<class id="0">1</class>
+			<class id="15">-1</class>
+		</vArray>
+		<threshold>23.155</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="23">
+		<alpha>0.133425</alpha>
+		<column>13</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>0.159938</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="24">
+		<alpha>0.180022</alpha>
+		<column>1</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>0.871262</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="25">
+		<alpha>0.178877</alpha>
+		<column>12</column>
+		<vArray size="2">
+			<class id="0">1</class>
+			<class id="15">-1</class>
+		</vArray>
+		<threshold>0.750622</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="26">
+		<alpha>0.143291</alpha>
+		<column>4</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>0.991632</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="27">
+		<alpha>0.123185</alpha>
+		<column>17</column>
+		<vArray size="2">
+			<class id="0">1</class>
+			<class id="15">-1</class>
+		</vArray>
+		<threshold>377.875</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="28">
+		<alpha>0.113531</alpha>
+		<column>17</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>378.055</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+	<weakhyp iter="29">
+		<alpha>0.147767</alpha>
+		<column>14</column>
+		<vArray size="2">
+			<class id="0">-1</class>
+			<class id="15">1</class>
+		</vArray>
+		<threshold>1.205</threshold>
+	</weakhyp>
+	<!-- ################################## -->
+</multiboost>
